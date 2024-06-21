@@ -1,5 +1,5 @@
 # Used by `image`, `push` & `deploy` targets, override as required
-IMAGE_REG ?= hub.docker.com
+#IMAGE_REG ?= docker.io
 IMAGE_REPO ?= devadj/python-demoapp
 IMAGE_TAG ?= latest
 
